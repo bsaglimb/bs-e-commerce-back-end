@@ -1,0 +1,12 @@
+{
+  "name": "bs-e-commerce-back-end",
+  "version": "1.0.0",
+  "description": "* AS A manager at an internet retail company * I WANT a back end for my e-commerce website that uses the latest technologies * SO THAT my company can compete with other e-commerce companies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

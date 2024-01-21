@@ -68,6 +68,7 @@ router.post('/', (req, res) => {
   console.log(err);
   res.status(500).json(err);
   });
+  return ProductTag.bulkCreate(tagIds);
 });
 
 
