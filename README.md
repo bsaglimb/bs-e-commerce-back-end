@@ -17,3 +17,20 @@
 * THEN the data for each of these routes is displayed in a formatted JSON
 * WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 * THEN I am able to successfully create, update, and delete data in my database
+
+## Installation
+* For installation onto local machine, clone provided repository.
+* Use 'npm install' to install dependencies.
+* Run 'mysql -u root -p' in terminal
+* Enter 'root' password
+* In mysql run 'source schema.sql'
+* 'quit' mysql
+* In terminal enter 'npm run seed'
+* In terminal enter 'npm start'
+* Visit http://localhost:3001/ in insomnia to run tests using: GET, POST, PUT, DEL
+
+
+## Demonstration
+
+* https://drive.google.com/file/d/1XSDMQD58dL5l3I4zMppGGVVhk3iiO_5Y/view
+
