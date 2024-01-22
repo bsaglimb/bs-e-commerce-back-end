@@ -34,3 +34,6 @@
 
 * https://drive.google.com/file/d/1XSDMQD58dL5l3I4zMppGGVVhk3iiO_5Y/view
 
+## Pages
+* https://github.com/bsaglimb/bs-e-commerce-back-end
+* https://bsaglimb.github.io/bs-e-commerce-back-end/
